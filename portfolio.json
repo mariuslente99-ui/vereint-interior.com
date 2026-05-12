@@ -1,0 +1,142 @@
+[
+  {
+    "id": "aktProjekt_Dortmund_WZ",
+    "location": "Dortmund",
+    "what": "aktuelles Projekt",
+    "hero": true,
+    "order": 1,
+    "views": [
+      {
+        "src": "Portfolio/aktProjekt_Dortmund_WZ_1.jpg",
+        "label": "Ansicht vom Eingang",
+        "alt": "Dortmund, aktuelles Projekt, Ansicht vom Eingang",
+        "fit": "cover",
+        "position": "center center"
+      },
+      {
+        "src": "Portfolio/aktProjekt_Dortmund_WZ_2.jpg",
+        "label": "Ansicht vom Sofa",
+        "alt": "Dortmund, aktuelles Projekt, Ansicht vom Sofa",
+        "fit": "cover",
+        "position": "center center"
+      }
+    ]
+  },
+  {
+    "id": "Hamburg_einbauschrank",
+    "location": "Hamburg",
+    "what": "DIY Einbauschrank",
+    "hero": true,
+    "order": 2,
+    "views": [
+      {
+        "src": "Portfolio/Hamburg_einbauschrank_1.jpg",
+        "label": "Visualisierung",
+        "alt": "Hamburg, DIY Einbauschrank, Visualisierung",
+        "fit": "cover",
+        "position": "center center"
+      },
+      {
+        "src": "Portfolio/Hamburg_einbauschrank_2.jpg",
+        "label": "Umsetzung",
+        "alt": "Hamburg, DIY Einbauschrank, Umsetzung",
+        "fit": "cover",
+        "position": "center center"
+      }
+    ]
+  },
+  {
+    "id": "hamburg_video",
+    "location": "Hamburg",
+    "what": "Schlafzimmer",
+    "hero": true,
+    "order": 3,
+    "views": [
+      {
+        "src": "Portfolio/hamburg_video_1.MP4",
+        "label": "Nachher",
+        "alt": "Hamburg, Schlafzimmer, Nachher",
+        "type": "video",
+        "fit": "cover",
+        "position": "center center"
+      },
+      {
+        "src": "Portfolio/hamburg_video_2.mp4",
+        "label": "Vorher",
+        "alt": "Hamburg, Schlafzimmer, Vorher",
+        "type": "video",
+        "fit": "cover",
+        "position": "center center"
+      }
+    ]
+  },
+  {
+    "id": "Moodboard",
+    "location": "Paris",
+    "what": "Classic Apartment",
+    "hero": true,
+    "order": 4,
+    "views": [
+      {
+        "src": "Portfolio/Moodboard_1.png",
+        "label": "Moodboard & Inspiration",
+        "alt": "Paris, Classic Apartment, Moodboard & Inspiration",
+        "fit": "contain",
+        "position": "center center"
+      },
+      {
+        "src": "Portfolio/Moodboard_2.png",
+        "label": "Surfaces & Structures",
+        "alt": "Paris, Classic Apartment, Surfaces & Structures",
+        "fit": "contain",
+        "position": "center center"
+      }
+    ]
+  },
+  {
+    "id": "Visualisierung_WZ_Berlin",
+    "location": "Berlin",
+    "what": "Wohnzimmer",
+    "hero": true,
+    "order": 5,
+    "views": [
+      {
+        "src": "Portfolio/Visualisierung_WZ_Berlin_1.jpg",
+        "label": "Ansicht vom Eingang",
+        "alt": "Berlin, Wohnzimmer, Ansicht vom Eingang",
+        "fit": "cover",
+        "position": "center center"
+      },
+      {
+        "src": "Portfolio/Visualisierung_WZ_Berlin_2.jpg",
+        "label": "Ansicht vom Essbereich",
+        "alt": "Berlin, Wohnzimmer, Ansicht vom Essbereich",
+        "fit": "cover",
+        "position": "center center"
+      }
+    ]
+  },
+  {
+    "id": "vorhernachher_SZ_Hamburg",
+    "location": "Hamburg",
+    "what": "Schlafzimmer",
+    "hero": true,
+    "order": 6,
+    "views": [
+      {
+        "src": "Portfolio/vorhernachher_SZ_Hamburg_1.jpg",
+        "label": "Nachher",
+        "alt": "Hamburg, Schlafzimmer, Nachher",
+        "fit": "contain",
+        "position": "center center"
+      },
+      {
+        "src": "Portfolio/vorhernachher_SZ_Hamburg_2.jpeg",
+        "label": "Vorher",
+        "alt": "Hamburg, Schlafzimmer, Vorher",
+        "fit": "contain",
+        "position": "center center"
+      }
+    ]
+  }
+]
